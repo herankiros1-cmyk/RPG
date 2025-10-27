@@ -21,7 +21,9 @@ cmake --build .
 ./RPG
 ```
 ##Game Screenshot
-![RPG Game Screenshot](Screenshot%202025-10-26 213645.png)
+![RPG Game Screenshot](Screenshot%202025-10-26%20213645.png)
+
+---
 
 ##Author
 **Heran Kiros - CIS 25 Final Project**
